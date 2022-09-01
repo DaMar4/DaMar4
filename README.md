@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi I'm Daniel 👋 I'm an engineer developer
+there is
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damar4&show_icons=true&theme=radical)
 <!--
 **DaMar4/DaMar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
